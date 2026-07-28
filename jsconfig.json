@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "bundler",
+    "resolvePackageJsonImports": true
+  },
+  "include": ["**/*"]
+}
