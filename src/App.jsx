@@ -32,7 +32,7 @@ function App() {
       <div className="ribbons-background">
         <Ribbons
           baseThickness={30}
-          colors={["#20861b", "#085807", "#4a8f58", "#085807", "#20861b"]}
+          colors={["#20861b", "#085807", "#4a8f58", "#085807"]}
           speedMultiplier={0.45}
           maxAge={400}
           enableFade={false}
